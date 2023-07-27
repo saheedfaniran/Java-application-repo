@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>CatPhotoApp</h1>
+    <h1>CatPhotoApp2</h1>
     <section>
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
